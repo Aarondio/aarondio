@@ -13,7 +13,7 @@ Hi, I'm Aaron Iliya Dikko, a full stack developer with a passion for creating dy
 - **Description**: Generate business plans for small business.
 - **Tech Stack**:Laravel, Boostrap, JQuery.
 
-### [Agrichub](https://github.com/Aarondio/agrichub)
+### [Afrifarm](https://github.com/Aarondio/afrifarm)
 - **Description**: Help farmsers to sale their products directly to the consumer without a middleman.
 - **Tech Stack**: Laravel, Boostrap, JQuery.
 
