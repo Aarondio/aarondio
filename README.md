@@ -25,10 +25,6 @@ Hi, I'm Aaron Iliya Dikko, a full stack developer with a passion for creating dy
 - **Description**: wise patient management system is design to assist hospital to manage patient records effectively as other activities in the hospital.
 - **Tech Stack**: Laravel, Liveire, Tailwind Alpine, Filament.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aarondio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aarondio&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aarondio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ### 🔝 Top Contributed Repo
