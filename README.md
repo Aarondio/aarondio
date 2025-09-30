@@ -70,7 +70,6 @@ Hi, I'm **Aaron Iliya Dikko**, a **Full Stack Developer** with a passion for cre
 
 ---
 
-## 🏆 GitHub Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aarondio&theme=onedark&no-frame=true&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
-
+## 📊 Contribution Graph  
+[![Aarondio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aarondio&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
