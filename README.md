@@ -6,6 +6,9 @@ Hi, I'm **Aaron Iliya Dikko**, a **Full Stack Developer** with a passion for cre
 🎨 I'm also a **lover of design** who cares about user experience.
 
 ---
+## 🔥 Streak Stats  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aarondio&theme=dark&hide_border=true)](https://git.io/streak-stats)
+---
 
 ## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aarondioo)
