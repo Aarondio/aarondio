@@ -17,7 +17,7 @@ Hi, I'm **Aaron Iliya Dikko**, a **Full Stack Developer** with a passion for cre
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
@@ -44,32 +44,30 @@ Hi, I'm **Aaron Iliya Dikko**, a **Full Stack Developer** with a passion for cre
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Smecredit](https://github.com/Aarondio/smedanforme)
-📌 *Generate business plans for small businesses*  
-🛠 **Laravel, Bootstrap, jQuery**
+*Generate business plans for small businesses*  
+**Laravel, Bootstrap, jQuery**
 
 ---
 
 ### [Afrifarm](https://github.com/Aarondio/afrifarm)
-📌 *Help farmers sell their products directly to consumers without a middleman*  
-🛠 **Laravel, Bootstrap, jQuery**
+*Help farmers sell their products directly to consumers without a middleman*  
+**Laravel, Bootstrap, jQuery**
 
 ---
 
 ### [HelloDoc](https://github.com/Aarondio/hellodoc)
-📌 *Helps patients book and manage appointments with doctors in a hospital*  
-🛠 **Laravel, Livewire, Tailwind, Alpine**
+*Helps patients book and manage appointments with doctors in a hospital*  
+**Laravel, Livewire, Tailwind, Alpine**
 
 ---
 
 ### [Wise Hospital Management System](https://github.com/Aarondio/hms)
-📌 *Manages patient records and hospital activities effectively*  
-🛠 **Laravel, Livewire, Tailwind, Alpine, Filament**
+*Manages patient records and hospital activities effectively*  
+**Laravel, Livewire, Tailwind, Alpine, Filament**
 
 ---
 
-## 📊 Contribution Graph  
-[![Aarondio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aarondio&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
----
+
