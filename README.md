@@ -1,8 +1,8 @@
 # 👋 About Me
 Hi, I'm **Aaron Iliya Dikko**, a **Full Stack Developer** with a passion for creating dynamic and responsive web applications.  
 
-💡 My expertise lies in **PHP, Laravel, JavaScript, React.js, Vue.js, and Nuxt.js**.  
-⚡ I also work with **Livewire** and **Filament** for Laravel apps, and I use **Tailwind CSS, Alpine.js, and Bootstrap** for design.  
+💡 My expertise lies in **PHP, Laravel, JavaScript, Vue.js, and Nuxt.js**.  
+⚡ I also work with **Livewire, Prismphp** and **Filament** for Laravel apps, and I use **Tailwind CSS, Alpine.js, and Bootstrap** for design.  
 🎨 I'm also a **lover of design** who cares about user experience.
 
 ---
